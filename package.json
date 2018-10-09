@@ -1,6 +1,7 @@
 {
   "name": "vue-multiple-entrance",
   "version": "1.0.0",
+  "homepage": "https://ziyuanzhang.github.io/vue-multiple-entrance",
   "description": "A Vue.js project",
   "author": "ziyuzhan <ziyuzhan@cisco.com>",
   "private": true,

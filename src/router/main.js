@@ -7,6 +7,7 @@ Vue.use(Router)
 
 let router = new Router({
   mode: 'history',
+  base: '/vue-multiple-entrance/',
   routes: [
     {
       path: '/',
